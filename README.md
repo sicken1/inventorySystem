@@ -1,6 +1,7 @@
 # 📦 MarkScents Inventory Management System
 
 A customized Inventory Management System developed during my college years for **MarkScents**, a local fragrance business in Sta. Fe, Leyte. The system was created to streamline product tracking, sales recording, user roles, and customer management through a secure and organized web-based platform.
+---
 The full project documentation is available here: [MarkScents Inventory System PDF](./Final-Deliverables-MarkScents-owned-by-rzl-and-sicken.pdf)
 ---
 
